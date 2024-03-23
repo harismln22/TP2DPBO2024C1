@@ -22,7 +22,7 @@ user akan diperlihatkan menu ketika user mulai menjalankan program.
 ![insert (2)](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/67b9090e-2a7a-4235-8e14-2f4e71786cc5)
 ![insert db](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/cf51d159-9b21-4c3e-8ef1-7268842ce0d1)
 
-user bisa mengisi field kosong diatas mulai dari nim,nama,jeniskelamin, dan nilai. ketika sesudah mengisi field kosong tersebut, user bisa klik "add" untuk menambahkan ke list dan database
+user bisa mengisi field kosong diatas mulai dari nim,nama,jeniskelamin, dan nilai. ketika sesudah mengisi field kosong tersebut, user bisa klik "add" untuk menambahkan ke list dan akan tertambah langsung ke database
 
 ![insert nim sama](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/ef38fb59-4f68-4cf2-955b-e940d9221be2)
 
