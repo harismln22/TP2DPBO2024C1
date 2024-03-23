@@ -31,12 +31,15 @@ dan juga terdapat kondisi dimana kalau user menambahkan nim sama dengan yang sud
 3. Update data
 
 ![Update data (1)](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/54ebae2a-1712-4cb1-aca0-1021b7e45313)
+
 disini user mencoba mengubah data "Roshan" menjadi seperti field diatas.
 
 ![Update data (2)](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/872439a1-ed03-411a-a5de-80c83da660dc)
+
 ketika user klik update, maka data tersebut akan berubah menjadi yang user isi di field sebelumnya
 
 ![Update data db](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/d0fb96ee-0b4b-4650-bf10-3561ce211597)
+
 dan ini juga akan terupdate di databasenya
 
 4. Delete data
@@ -55,9 +58,11 @@ begitu juga dengan di databasenya, data tersebut berhasil hapus secara langsung.
 
 5. Filter
    1. Filter nama
+
    ![filter nama](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/e1a34047-478c-46ee-8c89-d1bfb84b2768)
 
-   2. Filter nim
+   3. Filter nim
+
    ![fliter nim](https://github.com/harismln22/TP2DPBO2024C1/assets/159020670/ddf3c3f3-4c45-4b00-a0e8-731c9737de74)
 
    kedua filter ini tidak mengubah apapun di databasenya dan hanya berjalan di GUInya saja
